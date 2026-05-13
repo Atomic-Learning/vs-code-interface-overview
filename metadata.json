@@ -1,22 +1,17 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "VS Code:Interface Overview",
+    "slug": "vs-code-interface-overview",
+    "description": "An overview of the Visual Studio Code (VS Code) interface including the names of different sections and an overview of their purposes and basic uses.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "vs-code"
     ],
-    "duration": 0,
+    "duration": 5,
     "prerequisites": [
-        "",
-        ""
+        "vs-code-introduction"
     ],
     "related": [
-        "",
-        ""
     ]
 }
